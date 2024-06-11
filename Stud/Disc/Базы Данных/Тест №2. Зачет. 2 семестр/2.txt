@@ -1,0 +1,4 @@
+Как расшифровывается аббревиатура VBA?
+
+
+visual basic for application
